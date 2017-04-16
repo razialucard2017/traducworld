@@ -1,0 +1,2 @@
+# traducworld
+traduccionesitems
